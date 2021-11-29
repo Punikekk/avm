@@ -68,4 +68,4 @@ on other licenses (same as tamarin). I will make a final decision on that later.
 Status
 ------
 
-Work in progress... y
+Work in progress...
